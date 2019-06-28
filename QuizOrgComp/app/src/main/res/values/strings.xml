@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Org&amp;ArQUIZ</string>
+
+    <string name="questao_correta"><font size="20">Alternativa correta</font>\n<b>Parabéns!</b></string>
+</resources>
